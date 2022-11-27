@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view>
+<view>
+{{ message }}
+</view>
+<button type="default" size="{{defaultSize}}"bindtap="hi" >获取数据</button>
+</view>
